@@ -1,6 +1,6 @@
 import { useEffect, useRef,useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Card, CardHeader, CardContent, CardFooter } from "./ui/Card.jsx";
+import { Card, CardHeader, CardContent, CardFooter } from "./ui/card.jsx";
 import { Button } from "./ui/button.jsx";
 import { Heart } from "lucide-react";
 
